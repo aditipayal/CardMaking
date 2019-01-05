@@ -25,7 +25,7 @@
         android:id="@+id/textView2"
         android:layout_width="389dp"
         android:layout_height="86dp"
-        android:text="“Mom and Dad, I cannot begin to describe how blessed I am to have amazing parents in my life. Seeing true love through you both makes my heart happy. As your daughter/son I see perfection in both of you. I love you.”"
+        android:text="Mom and Dad, I cannot even begin to describe how blessed I am to have amazing parents like you in my life. Seeing true love through you both makes my heart happy. As your daughter I see an absolute perfection in both of you. I love you."
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintHorizontal_bias="0.0"

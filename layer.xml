@@ -22,7 +22,7 @@
         android:layout_width="368dp"
         android:layout_height="78dp"
         android:layout_marginLeft="21dp"
-        android:text="Wish u a great 21th happy anniversay"
+        android:text="Wish You Both A Happiest 21st Wedding Anniversary"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintBottom_toTopOf="@+id/imageView"
         android:layout_marginStart="16dp"
